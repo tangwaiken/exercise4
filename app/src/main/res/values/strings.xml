@@ -1,0 +1,11 @@
+
+<resources>
+    <string name="app_name">EPF_Exercise 4</string>
+    <string name="lblDOB">Date of Birth</string>
+    <string name="textCalendar">Click here</string>
+    <string name="lblAge">Age</string>
+    <string name="lblMinBasicSav">Min. Basic Saving</string>
+    <string name="lblInvestAmount">Investment Amount</string>
+    <string name="calculateBtn">Calculate EPF</string>
+    <string name="resetBtn">Reset</string>
+</resources>
